@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "881257135357",
+    "project_id": "curselnu",
+    "storage_bucket": "curselnu.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881257135357:android:97a67038561b1878585294",
+        "android_client_info": {
+          "package_name": "com.example.kursovaapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB70r62D3x4zOvVJeP90k1ajvEkJOZYB7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

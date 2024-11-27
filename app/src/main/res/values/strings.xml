@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">KursovaApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="type_your_email">Type your Email</string>
+    <string name="enter_your_pass">Enter your pass</string>
+    <string name="re_enter_your_pass">re enter your pass</string>
+    <string name="enter_your_email">enter your email</string>
+    <string name="type_your_task">Type your task</string>
+    <string name="select_reminder_time">Select Reminder Time</string>
+    <string name="some_string">You have a task reminder</string>
+
+</resources>
